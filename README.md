@@ -1,2 +1,2 @@
 # Smart_Outlet
-Smaet Outlet App
+Smart Outlet App
